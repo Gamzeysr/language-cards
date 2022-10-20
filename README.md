@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+
+![language-cards](https://user-images.githubusercontent.com/108168084/196884203-8fd99b8e-a3f8-4bab-b010-37f285e575e0.gif)
+
+
+
+## https://gmz-language-card.netlify.app/
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
