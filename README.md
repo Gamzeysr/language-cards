@@ -3,7 +3,7 @@
 
 
 
-## https://gmz-language-card.netlify.app/
+## https://gmz-language-card.netlify.app/ ✨✨
 
 
 ## Getting Started with Create React App
